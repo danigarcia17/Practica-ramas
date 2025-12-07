@@ -1,0 +1,1 @@
+Git fue creado por Linus Torvalds en 2005. Se creó para gestionar el código fuente del núcleo de Linux de forma distribuida. Hoy en día se utiliza para controlar versiones de proyectos de software en todo el mundo.
